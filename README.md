@@ -1,4 +1,3 @@
-# lesson6_javascript3
 <!DOCTYPE html>
 <html lang="en">
 <head>
