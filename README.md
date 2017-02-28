@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (In this assignment, we were responsible for following directions in order to accurately carry out a number of objectives. Accessing elements by its selector id tag name or class, accessing element content, CSS properties & attributes, and adding and removing document nodes. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://mbl14b.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
 1. (Modifying page content is based on external events, like clicks or other user interactions. This requires a way to refer to different components of the web browser and the current document.)
