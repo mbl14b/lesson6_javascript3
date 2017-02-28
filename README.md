@@ -1,49 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-   <!--
-    Program Name:  Photo Gallery Application
-    Author: Madison Levine
-    Date:   February 28th, 2017
-    Filename: index.html
-   -->
-    
-    
-   <meta charset="utf-8" />
-   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-   <meta name="viewport" content="width=device-width,initial-scale=1.0">
-   <title>Photo gallery</title>
-   <link rel="stylesheet" href="photos.css" />
-   <script src="modernizr.custom.05819.js"></script>
-</head>
+## Project Name:  Photo Gallery Application
 
-<body>
-   <div>
-      <header>
-         <h1>Photo Gallery</h1>
-      </header>
+### Course Title:
+LIS 2360:  Web Application Development
 
-      <article>
-         <div id="leftarrow">
-            <p>&lt;</p>
-         </div>
-         <figure id="fig2">
-            <img width="360" height="202" />
-         </figure>
-         <figure id="fig3">
-            <img width="480" height="270" />
-         </figure>
-         <figure id="fig4">
-            <img width="360" height="202" />
-         </figure>
-         <div id="rightarrow">
-            <p>&gt;</p>
-         </div>
-         <div id="fiveButton">
-            <p>Show more images</p>
-         </div>
-      </article>
-   </div>
-   <script src="photos.js"></script>
-</body>
-</html>
+### Assignment Date:  
+(February 28, 2017)
+
+### Student Name:  
+(Madison Levine)
+
+### Project Description:
+(In this assignment, we were responsible for following directions in order to accurately carry out a number of objectives. Accessing elements by its selector id tag name or class, accessing element content, CSS properties & attributes, and adding and removing document nodes. )
+
+### View Project:
+(Replace this statement with your Github Page URL that was created when you 
+ published the project.)
+
+### Lessons Learned in the Assignment:
+1. (Modifying page content is based on external events, like clicks or other user interactions. This requires a way to refer to different components of the web browser and the current document.)
+2. (Javascript specifies the objects, properties and methods of the browser and the relationship between them through a convention called the browser object model or BOM. This BOM contains the document object, which represents the contents of a document within a browser. Since the Document object is where most of the changes happen in a dynamic web page, this object has its own object model, the DOM.)
+3. (You can use DOM methods to create new nodes and add them to the DOM tree.  The term element is an HTML element name. To add additional preview images to the photo gallery, you have to create new figure elements and new img elements. A node you create with the createElement method is not automatically attached to the DOM tree or to any other nodes. Instead, it exists independently of the DOM tree. The Document object includes several methods for attaching nodes to the DOM tree.)
